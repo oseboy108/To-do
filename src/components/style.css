@@ -1,3 +1,69 @@
+@media (max-width:390px){
+  .homepage {
+    height: 100vh;
+    weight: 100vw;
+    background: linear-gradient(122.19deg, #da20ac 1.89%, #00aad5 113.56%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+  }
+}
+
+@media (max-width:390px){
+  .todo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width:801px){
+  .add-confirm-icon {
+    position: absolute;
+    transform: scale(2);
+    top: 90px;
+    left: 300px;
+    cursor: pointer;
+  }
+}
+
+@media (max-width:390px){
+  .add-confirm-icon {
+    position: absolute;
+    transform: scale(2);
+    top: 90px;
+    left: 100px;
+    cursor: pointer;
+  }
+}
+@media (max-width:590px){
+  .todo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width:590px){
+  .add-edit-input {
+    width: 100%;
+    position: absolute;
+    top: 20px;
+    outline: none;
+    border: none;
+    height: 30px;
+    font-size: 25px;
+    padding: 5px 20px;
+  }
+}
 
 @media (max-width:1246px){
   .welcome > h1 {
