@@ -1,0 +1,106 @@
+
+@media (max-width:1246px){
+  .welcome > h1 {
+  width: 100%;
+  font-family: "Changa One";
+  font-weight: normal;
+  font-size: 100px;
+  left: 46px;
+  top: 155px;
+  position: absolute;
+  color: white;
+  }
+}
+
+@media (max-width:1009px){
+  .welcome > h1 {
+  width: 100%;
+  font-family: "Changa One";
+  font-weight: normal;
+  font-size: 80px;
+  left: 46px;
+  top: 155px;
+  position: absolute;
+  color: white;
+  }
+}
+@media (max-width:919px){
+  .welcome > h1 {
+  width: 100%;
+  font-family: "Changa One";
+  font-weight: normal;
+  font-size: 50px;
+  left: 46px;
+  top: 155px;
+  position: absolute;
+  color: white;
+  }
+}
+@media (max-width:794px){
+  .welcome > h1 {
+  width: 100%;
+  font-family: "Changa One";
+  font-weight: normal;
+  font-size: 50px;
+  left: 280px;
+  top: 155px;
+  position: absolute;
+  color: white;
+  }
+}
+
+@media (max-width:520px){
+  .welcome > h1 {
+  width: 100%;
+  font-family: "Changa One";
+  font-weight: normal;
+  font-size: 30px;
+  left: 350px;
+  top: 155px;
+  position: absolute;
+  color: white;
+  }
+}
+
+@media (max-width:414px){
+  .welcome > h1 {
+  width: 100%;
+  font-family: "Changa One";
+  font-weight: normal;
+  font-size: 30px;
+  left: 230px;
+  top: 155px;
+  position: absolute;
+  color: white;
+  }
+}
+
+@media (max-width:1246px){
+  .todo-svg {
+    position: absolute;
+    width:550px;
+    /* bottom: 50px; */
+    right: 50px;
+    transform: scale(0.9, 0.9); 
+  }
+}
+
+@media (max-width:794px){
+  .todo-svg {
+    position: absolute;
+    width:500px;
+    /* bottom: 50px; */
+    right: 50px;
+    transform: scale(0.9, 0.9); 
+  }
+}
+
+@media (max-width:415px){
+  .todo-svg {
+    position: absolute;
+    width:350px;
+    /* bottom: 50px; */
+    right: 50px;
+    transform: scale(0.9, 0.9); 
+  }
+}
